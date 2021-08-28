@@ -6,20 +6,18 @@ I love opensource, and I aspire to keep on giving back to the community (since I
 <!--
 Links and icons
 -->
-## Find me online
+**Find me online:**        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rad-hi)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/radhi-sghaier/)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1p0qM_X_ATUPP6oM-QkxEg)        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/radixties)  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rad-hi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/radhi-sghaier/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1p0qM_X_ATUPP6oM-QkxEg) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/radixties)  
-
----
 <!-- 
 How to edit the stats: https://github.com/anuraghazra/github-readme-stats 
 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&count_private=true&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ## Some of my work
 
-[**MyButton**](https://github.com/Rad-hi/MyButton_Arduino), the Arduino library I created to enable complex user interfaces through push-buttons. 
+[**MyButton**](https://github.com/Rad-hi/MyButton_Arduino), the Arduino library I created to enable complex user interfaces through push-buttons.
+
+[3D rendering desktop app in Python](https://github.com/Rad-hi/3D-Rendering-Desktop-App).
+
 <img src="https://github.com/Rad-hi/MyButton_Arduino/blob/master/images/multi_btn_1x75.gif" width=250>  <img src="https://github.com/Rad-hi/3D-Rendering-Desktop-App/blob/main/Screenshots/GIF.gif" width=250>
 
