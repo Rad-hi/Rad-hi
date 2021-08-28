@@ -1,5 +1,29 @@
-# I'm Radhi (Satisfied in Arabic) SGHAIER 
+# Hi! I'm Radhi (Satisfied in Arabic) 
+
+I am an electronics and nanotechnologies engineering student, and I have a great passion to embedded systems. 
+I love opensource, and I aspire to keep on giving back to the community (since I've only started).
+
+<!--
+Links and icons
+-->
+## Find me online
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rad-hi)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/radhi-sghaier/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC1p0qM_X_ATUPP6oM-QkxEg) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/radixties)  
+
+---
+<!-- 
+How to edit the stats: https://github.com/anuraghazra/github-readme-stats 
+-->
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&count_private=true&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&count_private=true&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+## Some of my work
+
+<img src="https://github.com/Rad-hi/MyButton_Arduino/blob/master/images/multi_btn_1x75.gif" width=640>
+> My first contribution to the Arduino opensource library manager, **MyButton**.
+
+<img src="https://github.com/Rad-hi/3D-Rendering-Desktop-App/blob/main/Screenshots/GIF.gif" width=640>
+> 3D rendering desktop app in Python with Tkinter, and Numpy.
