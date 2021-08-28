@@ -20,10 +20,6 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 
 ## Some of my work
 
-<img src="https://github.com/Rad-hi/MyButton_Arduino/blob/master/images/multi_btn_1x75.gif" width=250>
+[**MyButton**](https://github.com/Rad-hi/MyButton_Arduino), the Arduino library I created to enable complex user interfaces through push-buttons. 
+<img src="https://github.com/Rad-hi/MyButton_Arduino/blob/master/images/multi_btn_1x75.gif" width=250>  <img src="https://github.com/Rad-hi/3D-Rendering-Desktop-App/blob/main/Screenshots/GIF.gif" width=250>
 
-> My first contribution to the Arduino opensource library manager, **MyButton**.
-
-<img src="https://github.com/Rad-hi/3D-Rendering-Desktop-App/blob/main/Screenshots/GIF.gif" width=250>
-
-> 3D rendering desktop app in Python with Tkinter, and Numpy.
