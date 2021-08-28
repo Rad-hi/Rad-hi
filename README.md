@@ -6,7 +6,7 @@ I love opensource, and I aspire to keep on giving back to the community (since I
 <!--
 Links and icons
 -->
-[<img src="https://img.icons8.com/ios/50/000000/github--v2.png" alt='github' height='20'>](https://github.com/Rad-hi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/radhi-sghaier/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='20'>](https://www.youtube.com/channel/UC1p0qM_X_ATUPP6oM-QkxEg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='20'>](https://www.reddit.com/user/radixties)  
+[<img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt='github' height='20'>](https://github.com/Rad-hi)  [<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt='linkedin' height='20'>](https://www.linkedin.com/in/radhi-sghaier/)  [<img src="https://img.icons8.com/color/48/000000/youtube--v2.png" alt='YouTube' height='20'>](https://www.youtube.com/channel/UC1p0qM_X_ATUPP6oM-QkxEg)  [<img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png" alt='Reddit' height='20'>](https://www.reddit.com/user/radixties)  
 
 <!-- 
 How to edit the stats: https://github.com/anuraghazra/github-readme-stats 
