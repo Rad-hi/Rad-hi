@@ -27,4 +27,4 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 
 
 
-Icons by: [Icons8]("https://icons8.com").
+Icons by: [Icons8](https://icons8.com).
