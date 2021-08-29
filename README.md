@@ -14,7 +14,7 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 
 ## Technologies I'm familiar with
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>      
+<img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/tensorflow.png"  height='60'>
 
 
 ## Some of my work
