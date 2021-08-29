@@ -1,6 +1,6 @@
 # Hi! I'm Radhi (means satisfied in Arabic) 
 
-I am an electronics and nanotechnologies engineering student, and I have a great passion for **embedded systems**. I love **opensource**, and I aspire to keep on giving back to the community (since I've only started).
+I am an electronics and nanotechnologies engineering student, and I have a great passion for **embedded systems**. I love **opensource**, and I aspire to keep on giving back to the community (since I've just started).
 
 <!--
 Icons(https://icons8.com/icons/set/youtube) 
