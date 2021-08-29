@@ -14,7 +14,7 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 
 ## Technologies I'm familiar with
 
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" height='50'>      <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='50'>      <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='50'>      <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='50'>      <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='50'>      
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>      
 
 
 ## Some of my work
@@ -25,6 +25,6 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 
 <img src="https://github.com/Rad-hi/MyButton_Arduino/blob/master/images/multi_btn_1x75.gif" height=180>     <img src="https://github.com/Rad-hi/3D-Rendering-Desktop-App/blob/main/Screenshots/GIF.gif" height=180>
 
----
 
-Icons by: <a href="https://icons8.com" height='5'> Icons8</a>
+
+Icons by: [Icons8]("https://icons8.com").
