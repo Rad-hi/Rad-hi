@@ -1,6 +1,6 @@
 # Hi! I'm Radhi (means satisfied in Arabic) 
 
-## ```$ whoami```
+```$ whoami```
 
 I studied electronics and nanotechnologies engineering, and I am an **embedded software developer** (who does some freelancing in **embedded prototypes building**, reachout if you have an idea you want to see coming to life). 
 
@@ -16,12 +16,12 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&count_private=true&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## ```$ ls Technologies_I_am_familiar_with/```
+```$ ls Technologies_I_am_familiar_with/```
 
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/tensorflow.png"  height='60'>
 
 
-## ```$ ls Some_of_my_work/ ```
+```$ ls Some_of_my_work/ ```
 
 [**MyButton**](https://github.com/Rad-hi/MyButton_Arduino), the Arduino library I created to enable complex user interfaces through push-buttons.
 
