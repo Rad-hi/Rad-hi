@@ -14,9 +14,8 @@ Icons(https://icons8.com/icons/set/youtube)
 <!-- 
 How to edit the stats: https://github.com/anuraghazra/github-readme-stats 
 -->
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&count_private=true&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rad-hi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&count_private=true&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rad-hi&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 **```$ ls Technologies_I_am_familiar_with/```**
 
