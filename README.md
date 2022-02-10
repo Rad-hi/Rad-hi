@@ -16,6 +16,8 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&count_private=true&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rad-hi&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 **```$ ls Technologies_I_am_familiar_with/```**
 
 <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/tensorflow.png"  height='60'>
