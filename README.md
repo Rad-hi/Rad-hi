@@ -24,12 +24,10 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 
 **```$ ls Some_of_my_work/ ```**
 
-[**MyButton**](https://github.com/Rad-hi/MyButton_Arduino), the Arduino library I created to enable complex user interfaces through push-buttons.
-
-[**A 3D rendering desktop app in Python**](https://github.com/Rad-hi/3D-Rendering-Desktop-App), created as an exploration to the world of graphics.
-
-<img src="https://github.com/Rad-hi/MyButton_Arduino/blob/master/images/multi_btn_1x75.gif" height=180>     <img src="https://github.com/Rad-hi/3D-Rendering-Desktop-App/blob/main/Screenshots/GIF.gif" height=185>
-
+| MuButton (Arduino library) | 3D renderer in Python | Crop line detector |
+|:---------------------------|:---------------------:|:------------------:|
+|[**MyButton**](https://github.com/Rad-hi/MyButton_Arduino), the Arduino library I created to enable complex user interfaces through push-buttons.|[**A 3D rendering desktop app in Python**](https://github.com/Rad-hi/3D-Rendering-Desktop-App), created as an exploration to the world of graphics.|[**CV crop line detector**](https://github.com/Rad-hi/crop_line_detector_cv), a computer vision approach for crop lines detection and heading angle error estimation.|
+|<img src="https://github.com/Rad-hi/MyButton_Arduino/blob/master/images/multi_btn_1x75.gif" height=180>|<img src="https://github.com/Rad-hi/3D-Rendering-Desktop-App/blob/main/Screenshots/GIF.gif" height=185>|<img src="https://github.com/Rad-hi/crop_line_detector_cv/blob/master/images/sliding_window_result.gif" height=185>|
 
 
 Icons by: [Icons8](https://icons8.com).
