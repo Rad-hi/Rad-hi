@@ -2,14 +2,16 @@
 
 **```$ whoami```**
 
-I studied electronics and nanotechnologies engineering, and I am an **embedded software engineer**. 
+I am a **Software engineer**, with a softspot for embedded systems.
 
-I have a great passion for **embedded systems**, and I love **opensource**. Thus, I aspire to give back, as much as I can, to the community I learned so much from. 
+I love **opensource**. And I aspire to give back, as much as I can, to the community I learned so much from.
 
 <!--
 Icons(https://icons8.com/icons/set/youtube) 
 -->
-[<img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt='github' height='35'>](https://github.com/Rad-hi)      [<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt='linkedin' height='35'>](https://www.linkedin.com/in/radhi-sghaier/)      [<img src="https://img.icons8.com/color/48/000000/youtube--v2.png" alt='YouTube' height='35'>](https://www.youtube.com/channel/UC1p0qM_X_ATUPP6oM-QkxEg)      [<img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png" alt='Reddit' height='35'>](https://www.reddit.com/user/radixties)    
+Find me online:  [<img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt='github' height='35'>](https://github.com/Rad-hi)      [<img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt='linkedin' height='35'>](https://www.linkedin.com/in/radhi-sghaier/)      [<img src="https://img.icons8.com/color/48/000000/youtube--v2.png" alt='YouTube' height='35'>](https://www.youtube.com/channel/UC1p0qM_X_ATUPP6oM-QkxEg)      [<img src="https://img.icons8.com/doodle/48/000000/reddit--v4.png" alt='Reddit' height='35'>](https://www.reddit.com/user/radixties)    
+
+My activities on GitHub:
 
 <!-- 
 How to edit the stats: https://github.com/anuraghazra/github-readme-stats 
@@ -18,7 +20,7 @@ How to edit the stats: https://github.com/anuraghazra/github-readme-stats
 
 **```$ ls Technologies_I_am_familiar_with/```**
 
-<img src="https://icons8.com/icon/bpip0gGiBLT1/opencv" height='60'>          <img src="https://icons8.com/icon/aR9CXyMagKIS/numpy" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/tensorflow.png"  height='60'>
+<img src="https://img.icons8.com/color/48/null/opencv.png" height='60'>          <img src="https://img.icons8.com/color/48/null/numpy.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/tensorflow.png"  height='60'>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rad-hi&langs_count=8&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
