@@ -4,7 +4,6 @@
 
 I am a **Software engineer**, with a softspot for embedded systems.
 
-I love **opensource**. And I aspire to give back, as much as I can, to the community I learned so much from.
 
 <!--
 Icons(https://icons8.com/icons/set/youtube) 
