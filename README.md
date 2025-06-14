@@ -15,6 +15,8 @@ How to edit the stats: https://github.com/anuraghazra/github-readme0stats
 -->
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Rad-hi&show_icons=true&hide=issues&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rad-hi&theme=default)
+
 **```$ ls Technologies_I_am_familiar_with/```**
 
 <img src="https://avatars.githubusercontent.com/u/3979232?s=200&v=4" height='60'>          <img src="https://img.icons8.com/color/48/null/opencv.png" height='60'>          <img src="https://img.icons8.com/color/48/null/numpy.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/python--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/linux--v1.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-programming.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" height='60'>          <img src="https://img.icons8.com/fluency/48/000000/arduino.png" height='60'>          <img src="https://img.icons8.com/color/48/000000/tensorflow.png"  height='60'>
